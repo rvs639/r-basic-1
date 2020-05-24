@@ -1,6 +1,5 @@
 ---
 title: Tema 8 - Estadística descriptiva con datos cuantitativos
-author: Juan Gabriel Gomila & María Santos
 output: 
   ioslides_presentation:
     widescreen: true
