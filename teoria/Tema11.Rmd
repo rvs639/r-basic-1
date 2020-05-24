@@ -1,6 +1,5 @@
 ---
 title: "Tema 11 - Introducción a distribuciones de probabilidad"
-author: "Juan Gabriel Gomila & María Santos"
 output: 
   ioslides_presentation:
     widescreen: true
